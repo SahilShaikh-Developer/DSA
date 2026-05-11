@@ -97,7 +97,7 @@
 
 //que 4 :  accept and print the answer
 
-// let prompt = require('prompt-sync')()
+// let prompt = require('prompt-sync')() // terminal se input lene ke liye
 
 // let name = Number(prompt('enter your name :'))
 
